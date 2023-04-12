@@ -1,0 +1,4 @@
+[2023-01-20 16:56:26] production.ERROR: Maximum execution time of 120 seconds exceeded {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Maximum execution time of 120 seconds exceeded at C:\\xampp\\htdocs\\main\\bricole\\vendor\\laravel\\framework\\src\\Illuminate\\Mail\\MailServiceProvider.php:8)
+[stacktrace]
+#0 {main}
+"} 

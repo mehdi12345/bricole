@@ -1,0 +1,4 @@
+[2023-01-12 17:48:05] production.ERROR: Maximum execution time of 120 seconds exceeded {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Maximum execution time of 120 seconds exceeded at C:\\xampp\\htdocs\\main\\bricole\\app\\Http\\Livewire\\Admin\\Services\\OfflineComponent.php:10)
+[stacktrace]
+#0 {main}
+"} 
